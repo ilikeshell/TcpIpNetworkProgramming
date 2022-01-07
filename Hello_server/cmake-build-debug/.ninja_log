@@ -1,0 +1,8 @@
+# ninja log v5
+411	541	1640927518409544831	Hello_client	845e1628e8fba878
+0	11	0	clean	fa3c6ad17dafa00d
+0	82	1641346822352493968	build.ninja	4e8ac1a825162125
+1	411	1640927518277575154	CMakeFiles/Hello_client.dir/hello_client.c.o	f679a4612e698421
+2	411	1640927518277572550	CMakeFiles/Hello_server.dir/hello_server.c.o	1fedb8b05bf487fd
+412	541	1640927518409560164	Hello_server	651f49f7102cdd1c
+2	71	1640919643820517075	CMakeFiles/Hello_server.dir/hello_client.c.o	6244703749a4263f

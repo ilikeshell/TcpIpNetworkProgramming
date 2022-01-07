@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Hello_server",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Hello_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hello_client-Debug-d8b5947bc3ce0e0bde4f.json",
+					"name" : "Hello_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Hello_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hello_server-Debug-d60d682d56b748bc8ecb.json",
+					"name" : "Hello_server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kaiyan/Documents/GitHub/TcpIpNetworkProgramming/Hello_server/cmake-build-debug",
+		"source" : "/Users/kaiyan/Documents/GitHub/TcpIpNetworkProgramming/Hello_server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
